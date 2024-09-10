@@ -33,9 +33,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Armature|Charge_Weapon
-      takeName: Armature|Charge_Weapon
-      internalID: 4251604578976889614
+      name: Armature|Armature|Armature|Charge_Weapon
+      takeName: Armature|Armature|Armature|Charge_Weapon
+      internalID: -5782520558087376509
       firstFrame: 0
       lastFrame: 14
       wrapMode: 0
@@ -62,9 +62,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature|PushTrigger
-      takeName: Armature|PushTrigger
-      internalID: -8633572560168060263
+      name: Armature|Armature|Armature|PushTrigger
+      takeName: Armature|Armature|Armature|PushTrigger
+      internalID: 1299969326384305413
       firstFrame: 0
       lastFrame: 20
       wrapMode: 0
@@ -91,9 +91,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature|Reload
-      takeName: Armature|Reload
-      internalID: 7332139420686511986
+      name: Armature|Armature|Armature|Reload
+      takeName: Armature|Armature|Armature|Reload
+      internalID: 7307882998617966426
       firstFrame: 0
       lastFrame: 50
       wrapMode: 0
@@ -120,9 +120,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature|Shoot_Loop
-      takeName: Armature|Shoot_Loop
-      internalID: 8951747450107608725
+      name: Armature|Armature|Armature|Shoot_Loop
+      takeName: Armature|Armature|Armature|Shoot_Loop
+      internalID: 1768153537404732338
       firstFrame: 0
       lastFrame: 6
       wrapMode: 0
@@ -149,9 +149,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature|Trigger_Hold
-      takeName: Armature|Trigger_Hold
-      internalID: -5991572307400467339
+      name: Armature|Armature|Armature|Trigger_Hold
+      takeName: Armature|Armature|Armature|Trigger_Hold
+      internalID: 4421756976896927485
       firstFrame: 0
       lastFrame: 5
       wrapMode: 0
@@ -178,9 +178,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature|Trigger_Stop
-      takeName: Armature|Trigger_Stop
-      internalID: -6339434409266976374
+      name: Armature|Armature|Armature|Trigger_Stop
+      takeName: Armature|Armature|Armature|Trigger_Stop
+      internalID: 3969181240850063888
       firstFrame: 0
       lastFrame: 5
       wrapMode: 0
