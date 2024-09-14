@@ -3118,7 +3118,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Mesh, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":3613567641014311022,"guid":"434d4702d731ef8448372336a92639bd","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":-462981019419857548,"guid":"d2341c31b583f8c4f963a24e2e2b4e2f","type":3}}'
     m_Space: 2147483647
   m_Property:
     name: mesh
@@ -3186,7 +3186,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"5539ae719e6959d49bee7f319398e042","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"cff459910cef37742a66243fa509c4db","type":3}}'
     m_Space: 2147483647
   m_Property:
     name: mainTexture
@@ -4074,7 +4074,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614833}
   - {fileID: 8926484042661614834}
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 1
+  m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_MasterSlot: {fileID: 8926484042661614832}
   m_MasterData:
@@ -4083,7 +4083,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector2, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":5.0,"y":1.0}'
+      m_SerializableObject: '{"x":1.0,"y":1.0}'
     m_Space: 2147483647
   m_Property:
     name: uvScale
